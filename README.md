@@ -1,4 +1,4 @@
-# SF Symbol Animation Demo
+# Demo: SF Symbol Animation
 This project demonstrates how to use symbol effects to create a variety of animations on SF symbols.
 
 ## Table of Contents
