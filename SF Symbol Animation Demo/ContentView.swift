@@ -50,7 +50,7 @@ struct ContentView: View {
             .foregroundStyle(.red)
             .font(.title)
             
-            // Scale
+            /// Scale
             Button{
                 scale.toggle()
             } label: {
