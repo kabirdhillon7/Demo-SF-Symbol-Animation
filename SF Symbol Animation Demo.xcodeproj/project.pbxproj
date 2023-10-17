@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		48032E332AD7B6580079AFF5 /* SF_Symbol_Animation_DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48032E322AD7B6580079AFF5 /* SF_Symbol_Animation_DemoApp.swift */; };
+		48032E332AD7B6580079AFF5 /* SF_Symbol_Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48032E322AD7B6580079AFF5 /* SF_Symbol_Animation.swift */; };
 		48032E352AD7B6580079AFF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48032E342AD7B6580079AFF5 /* ContentView.swift */; };
 		48032E372AD7B6590079AFF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48032E362AD7B6590079AFF5 /* Assets.xcassets */; };
 		48032E3A2AD7B6590079AFF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48032E392AD7B6590079AFF5 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		48032E2F2AD7B6580079AFF5 /* SF Symbol Animation Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SF Symbol Animation Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		48032E322AD7B6580079AFF5 /* SF_Symbol_Animation_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SF_Symbol_Animation_DemoApp.swift; sourceTree = "<group>"; };
+		48032E322AD7B6580079AFF5 /* SF_Symbol_Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SF_Symbol_Animation.swift; sourceTree = "<group>"; };
 		48032E342AD7B6580079AFF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		48032E362AD7B6590079AFF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48032E392AD7B6590079AFF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		48032E312AD7B6580079AFF5 /* SF Symbol Animation Demo */ = {
 			isa = PBXGroup;
 			children = (
-				48032E322AD7B6580079AFF5 /* SF_Symbol_Animation_DemoApp.swift */,
+				48032E322AD7B6580079AFF5 /* SF_Symbol_Animation.swift */,
 				48032E342AD7B6580079AFF5 /* ContentView.swift */,
 				48032E362AD7B6590079AFF5 /* Assets.xcassets */,
 				48032E382AD7B6590079AFF5 /* Preview Content */,
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48032E352AD7B6580079AFF5 /* ContentView.swift in Sources */,
-				48032E332AD7B6580079AFF5 /* SF_Symbol_Animation_DemoApp.swift in Sources */,
+				48032E332AD7B6580079AFF5 /* SF_Symbol_Animation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

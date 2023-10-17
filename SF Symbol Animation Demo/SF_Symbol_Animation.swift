@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SF_Symbol_Animation_DemoApp: App {
+struct SF_Symbol_Animation: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
