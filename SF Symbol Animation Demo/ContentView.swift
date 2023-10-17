@@ -8,8 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var sunHidden = true
-    @State var moonHidden = false
+    
     @State var appear = false
     @State var disappear = false
     @State var bounce = 1
@@ -17,7 +16,6 @@ struct ContentView: View {
     @State var variance = false
     @State var replace = false
     @State var scale = false
-    @State var isActive = true
     
     var body: some View {
         VStack(spacing: 10) {
