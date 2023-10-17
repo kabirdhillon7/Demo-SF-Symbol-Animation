@@ -18,7 +18,7 @@ struct ContentView: View {
     @State var scale = false
     
     var body: some View {
-        VStack(spacing: 10) {
+        VStack(spacing: 20) {
             
             /// Appear
             Button {
